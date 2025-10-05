@@ -23,7 +23,7 @@ public static class GameController
 
     public static void Init()
     {
-        collectableCount = 4; // (ou conte dinamicamente as moedas)
+        collectableCount = 20; // (ou conte dinamicamente as moedas)
         ResumeGame();         // garante que a cena comece “despausada”
         ScoreManager.Instance?.Resetar();  // ← zera o placar no começo
     }
