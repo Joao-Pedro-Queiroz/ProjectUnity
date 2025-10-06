@@ -13,10 +13,11 @@ Projeto Unity 2D top-down onde o jogador coleta moedas dentro de um limite de te
 - [Scripts (responsabilidades)](#scripts-responsabilidades)
 - [Áudio](#áudio)
 - [Controles](#controles)
+- [Suporte a Controle (Gamepad)](#suporte-a-controle-gamepad)
 - [Como Rodar](#como-rodar)
 - [Dicas e Solução de Problemas](#dicas-e-solução-de-problemas)
 - [Próximos Passos (idéias)](#próximos-passos-idéias)
-- [Licença](#licença)
+- [Referências e créditos](#referências-e-créditos)
 
 ---
 
