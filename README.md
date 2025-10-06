@@ -1,4 +1,5 @@
-# Jogo 2D (Unity) – Coletáveis, Inimigos, Timer e HUD
+# Swift Collect
+### Jogo 2D (Unity) – Coletáveis, Inimigos, Timer e HUD
 
 Projeto Unity 2D top-down onde o jogador coleta moedas dentro de um limite de tempo enquanto desvia de inimigos que perseguem, causam dano e empurram (knockback). O jogo exibe **pontuação**, **tempo**, **vida em corações** e **trilha sonora** contínua entre cenas. Ao fim, mostra um painel com o **tempo final** e a **pontuação final**, pausando o jogo.
 
