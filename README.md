@@ -251,7 +251,6 @@ Funciona com o **Input Manager clássico** sem mudar código (o `PlayerMovement`
 ## Referências e créditos
 Liste aqui as referências de assets (música, efeitos sonoros, sprites, fontes) usados no projeto. Exemplos:
 
-- Música: **“Nome da Faixa”** — Autor (Licença: CC‑BY 4.0) — link
-- SFX: **“Punch 01”** — Biblioteca/Autor (Licença) — link
-- Fonte/Ícones: **Noto Sans Symbols 2** (SIL Open Font License) — link
-- Sprites: **Pacote X** — Autor (Licença) — link
+- Música: **“Urban Soundtrack”** — BackgroundMusicForVideo — [link](https://pixabay.com/users/backgroundmusicforvideo-46826676/)
+- SFX: **“Punch”** — freesound_community — [link](https://pixabay.com/users/freesound_community-46691455/)
+- SFX: **Collect Points** — Liecio — [link](https://pixabay.com/users/liecio-3298866/)
