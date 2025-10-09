@@ -4,6 +4,7 @@
 Projeto Unity 2D top-down onde o jogador coleta moedas dentro de um limite de tempo enquanto desvia de inimigos que perseguem, causam dano e empurram (knockback). O jogo exibe **pontuação**, **tempo**, **vida em corações** e **trilha sonora** contínua entre cenas. Ao fim, mostra um painel com o **tempo final** e a **pontuação final**, pausando o jogo.
 
 ## Sumário
+- [Desenvolvedores](#desenvolvedores)
 - [Requisitos](#requisitos)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Fluxo do Jogo](#fluxo-do-jogo)
@@ -18,6 +19,11 @@ Projeto Unity 2D top-down onde o jogador coleta moedas dentro de um limite de te
 - [Dicas e Solução de Problemas](#dicas-e-solução-de-problemas)
 - [Próximos Passos (idéias)](#próximos-passos-idéias)
 - [Referências e créditos](#referências-e-créditos)
+
+---
+
+## Desenvolvedores
+- João Pedro Queiroz Viana
 
 ---
 
